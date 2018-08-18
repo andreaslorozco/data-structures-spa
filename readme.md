@@ -5,7 +5,7 @@
 ### Array?
 
 ### Queue - Fila
-[X][Link to Github](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/queue)
+[x] [Link to Github](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/queue)
 
 ### Stack - Pila
-[X][Link to Github](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/stack)
+[x] [Link to Github](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/stack)
