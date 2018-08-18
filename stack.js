@@ -28,6 +28,10 @@ class Stack {
         return this.items[this.top];
     };
 
+    getSize() {
+        return this.top;
+    };
+
     isEmpty(){
         if (!this.top) {
             return true;
@@ -49,9 +53,8 @@ stack.push(1);
 stack.push(2);
 stack.push(3);
 console.log(stack.print());
-console.log(stack.pop());
-console.log(stack.pop());
-console.log(stack.print());
+console.log(stack.getSize());
+
 // console.log(stack.isEmpty());
 // console.log(stack.pop());
 // console.log(stack.isEmpty());
