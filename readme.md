@@ -4,7 +4,7 @@
 
 ### Array?
 
-### File (Queue)
+### Fila (Queue)
 - [x] [Link to Github](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/queue)
 - [x] constructor
 - [x] enqueue
