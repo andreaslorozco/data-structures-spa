@@ -27,6 +27,16 @@
 ### Lista Enlazada (Linked List)
 
 - [x] [Link to Github](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
+- [x] Node constructor
+- [x] LinkedList constructor
+- [x] add
+- [ ] insertAt
+- [ ] removeFrom
+- [ ] removeElement
+- [ ] isEmpty
+- [ ] getSize
+- [ ] print 
+
 
 ### Lista Doblemente Enlazada (Doubly Linked List)
 
