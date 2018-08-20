@@ -30,11 +30,11 @@
 - [x] Node constructor
 - [x] LinkedList constructor
 - [x] add
-- [ ] insertAt
-- [ ] removeFrom
-- [ ] removeElement
-- [ ] isEmpty
-- [ ] getSize
+- [x] insertAt
+- [x] removeFrom
+- [x] removeElement
+- [x] isEmpty
+- [x] getSize
 - [ ] print 
 
 
@@ -47,3 +47,9 @@
 - [x] [Link to Github](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/hash-table)
 
 ### Monticulo (Heap)
+
+### Referencias
+
+* http://www.nickang.com
+* https://www.geeksforgeeks.org/implementation-linkedlist-javascript/
+
