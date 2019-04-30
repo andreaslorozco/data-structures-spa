@@ -41,12 +41,17 @@
 ### Lista Doblemente Enlazada (Doubly Linked List)
 
 - [x] [Link to Github](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/doubly-linked-list)
-
-### Tabla Hash (Hash Table)
-
-- [x] [Link to Github](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/hash-table)
-
-### Monticulo (Heap)
+- [x] DoubleLinkedList constructor
+- [x] addToHead
+- [x] addToTail
+- [x] insertAt
+- [x] removeFromHead
+- [x] removeFromTail
+- [x] removeData
+- [x] print
+- [x] printReverse
+- [x] getSize
+- [x] isEmpty
 
 ### Referencias
 
